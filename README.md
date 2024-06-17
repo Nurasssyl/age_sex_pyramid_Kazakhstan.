@@ -1,0 +1,1 @@
+# age_sex_pyramid_Kazakhstan.
